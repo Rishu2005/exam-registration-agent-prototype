@@ -1,0 +1,11 @@
+Agent Goal:
+Fill an exam registration form on Android.
+
+Agent Steps:
+1. Observe UI elements using Android Accessibility.
+2. Identify form fields (Name, DOB, Category).
+3. Map student data to fields.
+4. Navigate UI using accessibility focus traversal.
+5. Assist in filling fields.
+6. Verify filled fields.
+7. Stop before submission for security.
